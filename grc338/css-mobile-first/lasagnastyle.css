@@ -54,6 +54,10 @@ body {
     font-style: normal;
  }
 
+ ul li {
+    margin-bottom: 1em;
+ }
+
  ol{
     margin: 0.5em 1.5em 4em;
         font-family: poppins, sans-serif;  
@@ -61,6 +65,10 @@ body {
     font-style: normal;
  }
 
+ ol li {
+    margin-bottom: 1rem;
+ }
+ 
  footer{
     background-color: rgb(240, 140, 8);
         color: rgb(226, 222, 222);
