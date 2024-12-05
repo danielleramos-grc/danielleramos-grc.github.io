@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 77.5 65.7">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #594a42;
+      }
+
+      .cls-2 {
+        font-family: BennetBanner-Black, 'Bennet Banner';
+        font-size: 16px;
+        font-weight: 800;
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #c2b59b;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.3, SVG Export Plug-In . SVG Version: 1.2.0 Build 164)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="Layer_1-2" data-name="Layer_1">
+        <g>
+          <g>
+            <g>
+              <path class="cls-3" d="M21.5,20.8c13.6,5.6,26.8,2.3,33.6-.3,2.4-.9,5,.9,5,3.5l1,37.2c0,1.8-1.2,3.5-3,3.8-8.2,1.8-30-.2-38.4-1.1-1.9-.2-3.4-1.8-3.4-3.8V24.3c0-2.7,2.7-4.6,5.1-3.5Z"/>
+              <path class="cls-3" d="M58.5,33.8c8.4-6.2,10,5.5,10,5.5,1.3,15.1-7.7,12.2-7.7,12.2l-.2-5.2c2.3,3.1,3-3.4,3-3.4,1.6-6.3-5-9.1-5-9.1h0Z"/>
+            </g>
+            <path class="cls-1" d="M35.2,18.9c5.4-5.5,0-9.3,0-9.3-3-4.9,2.4-9.6,2.4-9.6-3.2,5.4,2.2,9.5,2.2,9.5,2.4,5.1-4.6,9.5-4.6,9.5h0Z"/>
+            <path class="cls-1" d="M25.8,20.2c4.3-4.4,0-7.4,0-7.4-2.4-3.9,1.9-7.6,1.9-7.6-2.5,4.3,1.7,7.5,1.7,7.5,1.9,4-3.6,7.5-3.6,7.5Z"/>
+            <path class="cls-1" d="M45.5,20.2c4.3-4.4,0-7.4,0-7.4-2.4-3.9,1.9-7.6,1.9-7.6-2.5,4.3,1.7,7.5,1.7,7.5,1.9,4-3.6,7.5-3.6,7.5Z"/>
+          </g>
+          <text class="cls-2" transform="translate(4.5 48.7) scale(1 1)"><tspan x="0" y="0">Café Brew</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
