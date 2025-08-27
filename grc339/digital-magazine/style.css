@@ -31,17 +31,17 @@ nav ul li {
 }
 
 nav ul li a {
-    font-family: sans-serif;
+    font-family: "Stevie-Sans", sans-serif;
     font-weight: 700;
-    color: #395e7e;
+    color: rgb(95, 56, 43);
     text-decoration: none;
     margin-right: 1em;
 }
 
 h2 {
-    font-family: serif;
+    font-family: "LTC-Caslon-Pro", sans-serif;
     font-weight: 700;
-    color: #395e7e;
+    color: rgb(95, 56, 43);
     margin-left: 0.1em;
     margin-top: 0.1em;
     font-size: 2em;
@@ -62,7 +62,7 @@ section.tertiarystory h2 {
 }
 
 p {
-    font-family: sans-serif;
+    font-family: "Stevie-Sans", sans-serif;
     margin: 0.6em 1em 2em;
 }
 
@@ -79,7 +79,7 @@ article h2 {
 
 figcaption {
     font-style: italic;
-    font-family: sans-serif;
+    font-family: "Stevie-Sans", sans-serif;
     color: #7a7a7a;
     margin-bottom: 1em;
     margin-top: .5em;
@@ -87,7 +87,7 @@ figcaption {
 }
 
 aside {
-    background-color: #c5ceff;
+    background-color: #f5e9da;
     padding: 1em 0.8em;
 }
 
@@ -102,11 +102,11 @@ aside p {
 }
 
 footer {
-    background-color: #395e7e;
-    color: rgb(255, 255, 255);
+    background-color: #a3c1dc;
+    color: rgb(95, 56, 43);
     text-align: left;
     padding: 1em ;
-    font-family: sans-serif;
+    font-family: "Stevie-Sans", sans-serif;
     box-sizing: border-box;
 }
 
