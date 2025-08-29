@@ -110,6 +110,74 @@ footer {
     box-sizing: border-box;
 }
 
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+}
+
+.gallery figure {
+    background: rgb(255, 255, 255);
+    padding: 0.5em;
+}
+
+.gallery img {
+    width: 100%;
+    height: 250px; 
+    object-fit: cover; 
+    border-radius: 6px; 
+}
+
+@media (max-width: 900px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .gallery {
+        grid-template-columns: 1fr;
+    }
+}
+
+.newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    max-width: 500px;
+    margin: 1.5em 0;
+    font-family: "Stevie-Sans", sans-serif;
+}
+
+.newsletter-form label {
+    font-weight: 600;
+    color: rgb(95, 56, 43);
+}
+
+.newsletter-form input[type="text"],
+.newsletter-form input[type="email"] {
+    padding: 0.5em;
+    border: 1px solid rgb(176, 176, 176);
+    border-radius: 4px;
+}
+
+.newsletter-form fieldset {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.newsletter-form button {
+    background-color: rgb(95, 56, 43);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 0.75em;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1em;
+}
+
 @media screen and (min-width: 42em) {
     nav ul li {
         display: inline-block;
